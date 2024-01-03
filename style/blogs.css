@@ -5,3 +5,8 @@ div{
     border-radius: 10px;
     box-shadow: 10px 10px 20px;
 }
+ol{
+    text-decoration: underline red;
+    color: rgb(150, 3, 125);
+    background-color: rgba(72, 72, 139, 0.281);
+}
